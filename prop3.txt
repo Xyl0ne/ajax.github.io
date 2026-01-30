@@ -1,0 +1,24 @@
+<h1>Barangay Information System with Digital Records Management</h1>
+<br>
+Proponents: 		Levy Poyaoan, Christian Valerio, Jhossalene Garcia, Eisen Gadingan, Adrian Luis Javier
+<br>
+<br>
+<h3>Rationale</h3>
+
+<p class="indent">
+In the Philippines, Governance begins with Local Government Units, extending down to
+barangays as the smallest administrative division, responsible for managing small neighborhoods. Many barangays still rely on manual, paper-based methods in managing resident records, certificates, and official transactions. Sometimes people will also grow frustrated when they visit the Barangay hall for something important, and the Barangay captain is either busy or not on site.
+</p>
+
+<br><br>
+<p class="indent">
+The implementation of the Barangay Information System with Digital records management aims to address these issues by providing a computerized platform for records, updates, complaints, and requests for the citizens and officials of the barangay. through a record-keeping platform provides a lot of benefits by transforming manual, paper-based operation into a digital and organized framework; it aids both Citizens and the  barangay officials with improved data management, faster transactions, and accurate records. Citizens can also keep track of an ongoing local project.
+</p>
+<br><br>
+<p class="indent">
+Not having a Barangay Information system has a lot of disadvantages, like Inefficient and Slow Public Service due to Delayed transactions and slow search process; Like staff struggling to locate files and documents due to the increasing population or it being stashed away. It also has a high risk of data loss due to destruction because of a natural disaster, or logbooks and files can easily be stolen. without a database, is scattered and disorganized, making it nearly impossible to maintain up-to-date, accurate, or complete profiles of residents. 
+</p>
+<br><br>
+<p class="indent">
+In response to the preceding remark, Barangay Information System with Digital Records Management is a work that aids both citizens and officials of the barangay. By having a working computerized platform, by clicking a button, Residents will have access to their records, file their complaints more easily, and have shorter wait times for certificates, clearances, and other official documents. It also eases the burden on barangay staff, allowing for better management of daily activities without needing a large staff size. Ensures reliable and up-to-date data on population, Files, reports, and projects.
+</p>

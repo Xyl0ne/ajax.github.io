@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *{
+            margin: 0%;
+            color: whitesmoke;
+            
+        }
+        body{
+            width: 100%;
+            height: 100%;
+            
+
+            display: flex;
+            justify-content: center;
+            background-image: url(bg.webp);
+            background-size: cover;
+            background-attachment: fixed;
+            
+        }
+        
+        header{
+            display: flex;
+        }
+        div{
+            margin: 100px;
+            
+            padding: 30px;
+            border: 1px solid white;
+            border-radius: 20px;
+            background-color: transparent;
+            backdrop-filter: blur(5px);
+            box-shadow: 0px 10px 40px rgb(176, 38, 255);
+            
+        }
+        #act{
+            width: 150px;
+        }
+        #name{
+            
+            text-align: center;
+        }
+        main{
+            
+            
+            display: flex;
+        }
+        article{
+            width: 1000px;
+            
+            padding: 20px;
+            
+        }
+        section{
+            height: 500px;
+            
+            display: flex;
+            flex-direction: column;
+            justify-content: space-around;
+            gap: 30px;
+
+        }
+
+        button{
+            font-weight: bold;
+            padding: 30px 40px;
+            border-radius: 20px;
+            background-color: transparent;
+            border: 1px solid rgb(176, 38, 255);
+        }
+        button:hover{
+            border: 1px solid white;
+            background-color: transparent;
+            backdrop-filter: blur(5px);
+            box-shadow: 0px 10px 40px rgb(176, 38, 255);
+        }
+       
+        h1{
+            text-align: center;
+            
+            
+        }
+        
+        .indent{
+            font-size: 15px;
+            text-indent: 30px;
+            
+        }
+    </style>
+</head>
+<body>
+
+    
+    <div>
+        <header>
+        <span>
+            <h1 id="act">Act 1</h1>
+        </span>
+        <span>
+            <h1 id="name">Levy S. Poyaoan</h1>
+        </span>
+    </header>
+    <main>
+        <section>
+            <button onclick="proposal1()">Proposal 1</button>
+            <button onclick="proposal2()">Proposal 2</button>
+            <button onclick="proposal3()">Proposal 3</button>
+        </section>
+        
+        <article>
+            <p id="result"></p>
+        </article>
+    </main>
+    </div>
+    
+    
+
+    
+    
+    
+</body>
+</html>
+
+<script>
+    function proposal1() {
+
+        var xhr = new XMLHttpRequest(); 
+
+        xhr.open("GET", "prop1.txt", true); 
+
+        xhr.onreadystatechange = function(){
+            if(this.readyState == 4 && this.status == 200){
+                document.getElementById("result").innerHTML = this.responseText;
+            }
+        }
+        xhr.send()
+    }
+    function proposal2() {
+
+        var xhr = new XMLHttpRequest(); 
+
+        xhr.open("GET", "prop2.txt", true); 
+
+        xhr.onreadystatechange = function(){
+            if(this.readyState == 4 && this.status == 200){
+                document.getElementById("result").innerHTML = this.responseText;
+            }
+        }
+        xhr.send()
+    }
+    function proposal3() {
+
+        var xhr = new XMLHttpRequest(); 
+
+        xhr.open("GET", "prop3.txt", true); 
+
+        xhr.onreadystatechange = function(){
+            if(this.readyState == 4 && this.status == 200){
+                document.getElementById("result").innerHTML = this.responseText;
+            }
+        }
+        xhr.send()
+    }
+
+
+    
+</script>

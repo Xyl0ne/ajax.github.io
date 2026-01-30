@@ -1,0 +1,20 @@
+<h1>Smart Solar-Powered Fish Drying System with Real-Time IoT Monitoring</h1>
+<br>
+Proponents: 		Levy Poyaoan, Christian Valerio, Jhossalene Garcia, Eisen Gadingan, Adrian Luis Javier
+<br><br>
+<h3>Rationale</h3>
+<p class="indent">
+	In the coastal area of Pangasinan, their primary source of living is fishing. Fishermen use a drying process when they catch a large amount of fish. This method helps fishermen to preserve fish, reduce post-harvest losses, and provide an affordable source of food. This processed food called "Tuyo" or "Daing" becomes a vital economic lifeline and regional specialty.
+</p>	
+	<br><br>
+<p class="indent">
+	The conventional method of drying involves leaving the fish outdoors so that sunlight can reach them. This approach works well, but it exposes the fish to flies and insect infestation, as well as dust, dirt, and sand. Additionally, because the drying process is fully exposed to the weather, bad weather can disrupt it, resulting in spoiled harvests and significant financial losses for fishermen. This exposure will lead to the growth of molds and other microorganisms, compromising the food safety and quality.
+</p>
+	<br><br>
+<p class="indent">
+	An existing solution to this problem is to use a Solar Dryer. Solar Dryers use enclosed structures to reduce contamination and improve the drying process. However, most of the solar dryers lack precise control and real-time monitoring of temperature, humidity and airflow. These solar dryers heavily depend on sunlight, making them ineffective during the night and bad weather.
+</p>
+	<br><br>
+<p class="indent">
+	This project uses a fully solar-powered, enclosed system with real-time monitoring and automated control. The system includes a high-capacity battery charged by solar panels to power the heater, fans, and sensors, enabling operation even when sunlight is low. An automated switching mechanism ensures continuous drying by seamlessly transitioning from direct solar power to battery power when solar input drops. The system features a mobile application allowing users to remote monitoring of temperature, humidity, weight of the tray and can also manually select the power source. The user can physically monitor the humidity, temperature and adjust the preset temperature on-site to ensure this project becomes user-friendly. This solution improves food safety, reduces post-harvest losses, and supports sustainable fish preservation for coastal communities.
+</p>

@@ -1,0 +1,16 @@
+<h1>Iot Based Jeepney Tracking with Passenger Mobile app</h1>
+<br>
+Proponents: 		Levy Poyaoan, Christian Valerio, Jhossalene Garcia, Eisen Gadingan, Adrian Luis Javier
+<br><br>
+<h3>Rationale</h3>
+<p class="indent">
+    Many students and daily commuters often ride jeepneys, but they often have problems with the jeepney will arrive and availability. This lack of information causes long waiting periods, especially during early mornings, late evenings, and peak hours. Many students are late for class because they do not know when the jeepney will arrive. Commuters are forced to wait without knowing if a jeepney is approaching or delayed. The absence of real-time transport information reduces commuting efficiency and reliability.
+</p>
+<br><br>
+<p class="indent">
+    Some transport systems provide GPS-based tracking to see if vehicles are available nearby. Ride-hailing platforms also offer real-time vehicle tracking and estimated arrival time. However, these systems are not designed for traditional jeepneys. Most of the Jeepney commuters often rely on personal experience, estimated ime and questions from drivers and other commuters.
+</p>
+<br><br>
+<p class="indent">
+    The proposed system installs low-cost GPS-enabled IoT devices on jeepneys serving student and commuter routes. Location data is transmitted to a centralized backend system for real-time processing. A mobile application displays jeepney locations and estimated arrival times to users. Data analysis techniques are applied to evaluate vehicle speed and distance in order to generate waiting time estimates. This solution improves time management, reduces uncertainty, and enhances daily commuting for students and other commuters.
+</p>
